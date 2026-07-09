@@ -1,0 +1,11 @@
+body{
+    margin: 0;
+    font-family: "Montserrat", sans-serif;
+    background-color: #A7FEAE;
+}
+#mi-espacio-3d {
+    width: 100%;       /* Ocupa todo el ancho disponible */
+    height: 400px;     /* Altura fija para tu ventana 3D */
+    background-color: #111111; /* Color de fondo mientras carga */
+    margin: 20px 0;    /* Margen arriba y abajo */
+}
