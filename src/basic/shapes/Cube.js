@@ -1,5 +1,5 @@
 const loader = new THREE.TextureLoader();
-const texture = loader.load( 'https://yt3.googleusercontent.com/TZizxSI-aKiuPzqxPKiEQAtGPlHmI9hGvcCrYflL8g8nuDbGvtFmDxWlIoMmBpk9odTShjBB=s160-c-k-c0x00ffffff-no-rj' );
+const texture = loader.load( 'https://cdn.discordapp.com/avatars/1420768804312580159/0f7ef21f2554c93c6820f83cbfcc36e5.webp' );
 texture.colorSpace = THREE.SRGBColorSpace;
 
 
