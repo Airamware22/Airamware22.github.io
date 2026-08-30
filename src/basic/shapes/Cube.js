@@ -1,5 +1,5 @@
 const loader = new THREE.TextureLoader();
-const texture = loader.load( 'https://cdn.discordapp.com/avatars/1420768804312580159/0f7ef21f2554c93c6820f83cbfcc36e5.webp' );
+const texture = loader.load( 'OrdenadorImg2.jpg' );
 texture.colorSpace = THREE.SRGBColorSpace;
 
 

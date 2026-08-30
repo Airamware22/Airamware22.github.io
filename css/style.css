@@ -9,3 +9,9 @@ body{
     background-color: #111111; /* Color de fondo mientras carga */
     margin: 20px 0;    /* Margen arriba y abajo */
 }
+h3 {
+  -webkit-user-select: none; /* Safari */
+  -moz-user-select: none;    /* Firefox */
+  -ms-user-select: none;     /* Internet Explorer/Edge */
+  user-select: none;         /* Estándar moderno */
+}
