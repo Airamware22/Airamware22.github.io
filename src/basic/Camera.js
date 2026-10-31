@@ -9,4 +9,6 @@ const alto = contenedor.clientHeight;
 // Ajusta los parámetros de tu PerspectiveCamera con el ancho y alto del contenedor
 const camera = new THREE.PerspectiveCamera(75, ancho / alto, 0.1, 1000);
 
+
+
 export default camera;

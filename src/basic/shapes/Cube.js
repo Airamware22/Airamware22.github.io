@@ -1,5 +1,5 @@
 const loader = new THREE.TextureLoader();
-const texture = loader.load( 'OrdenadorImg2.jpg' );
+const texture = loader.load( 'Imagen ordenador 8.jpg' );
 texture.colorSpace = THREE.SRGBColorSpace;
 
 

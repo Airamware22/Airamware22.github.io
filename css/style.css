@@ -1,17 +1,28 @@
 body{
     margin: 0;
     font-family: "Montserrat", sans-serif;
-    background-color: #A7FEAE;
+    background-color: #ffc067;
 }
 #mi-espacio-3d {
     width: 100%;       /* Ocupa todo el ancho disponible */
     height: 400px;     /* Altura fija para tu ventana 3D */
-    background-color: #111111; /* Color de fondo mientras carga */
+    background-color: #ffc067; /* Color de fondo mientras carga */
     margin: 20px 0;    /* Margen arriba y abajo */
+    background-size: cover;
 }
 h3 {
   -webkit-user-select: none; /* Safari */
   -moz-user-select: none;    /* Firefox */
   -ms-user-select: none;     /* Internet Explorer/Edge */
   user-select: none;         /* Estándar moderno */
+  padding-left: 10px;
+}
+h1 {
+    padding-left: 10px;
+}
+h2 {
+    padding-left: 10px;
+}
+h6 {
+    padding-left: 10px;
 }

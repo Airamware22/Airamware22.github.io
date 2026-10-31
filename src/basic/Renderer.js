@@ -11,7 +11,7 @@ const ancho = contenedor.clientWidth;
 const alto = contenedor.clientHeight;
 
 // 3. Crear el renderizador
-const renderer = new THREE.WebGLRenderer({ antialias: true });
+const renderer = new THREE.WebGLRenderer({ antialias: true});
 renderer.setSize(ancho, alto);
 
 // 4. Inyectar el canvas DENTRO del contenedor específico
